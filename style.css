@@ -1,0 +1,23 @@
+body {
+    background: radial-gradient(circle at top left, #FFECB3, #FFE082, #FFD54F, #FFA726, #E65100);
+    text-align: center;
+    margin: 0px;
+}
+p {
+    color: #37474F;
+    font-size: 3rem;
+    font-family: "Montserrat", sans-serif;
+}
+
+.dias {
+    color: #37474F;
+    font-size: 8rem;
+    font-weight: bold;
+}
+
+#container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+}

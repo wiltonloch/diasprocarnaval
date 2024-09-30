@@ -7,12 +7,14 @@ p {
     color: #37474F;
     font-size: 3rem;
     font-family: "Montserrat", sans-serif;
+    margin: 0px;
 }
 
 .dias {
     color: #37474F;
     font-size: 8rem;
     font-weight: bold;
+    margin: 90px 0px 90px 0px;
 }
 
 #container {
